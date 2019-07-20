@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1558264767 source:c:\users\prajwal raut\desktop\kom_project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<iomanip>
+
+1558270570 source:c:\users\prajwal raut\desktop\kom_project\reverse-engineering-water-immersion\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<iomanip>
+

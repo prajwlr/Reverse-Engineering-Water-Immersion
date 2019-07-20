@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559654080 source:c:\users\prajwal raut\desktop\kom_project\coeff_mat_generator\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<iomanip>
+
